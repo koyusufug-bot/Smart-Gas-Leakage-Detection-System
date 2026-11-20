@@ -42,3 +42,14 @@ The LCD displays relevant system information.
 
 ## Project Purpose
 The project aims to improve domestic safety by providing an affordable system for early gas leakage detection, fire warning and automatic response.
+## Project Authors
+
+This project was carried out by:
+
+1. Abdulliadi Abdulbaki
+2. Yusuf Hikmat Oyindamola
+3. Yahaya Abiola Tajudeen
+
+## Project Supervisor
+
+Dr. H. S. Miya
