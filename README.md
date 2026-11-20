@@ -53,3 +53,7 @@ This project was carried out by:
 ## Project Supervisor
 
 Dr. H. S. Miya
+
+https://doi.org/10.5281/zenodo.24390899
+
+https://zenodo.org/records/24390899
