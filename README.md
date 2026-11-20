@@ -21,7 +21,7 @@ The system is designed to detect gas leakage, identify fire outbreaks and provid
 - DS18B20 Temperature Sensor
 - SIM800L GSM Module
 - 16×2 I2C LCD
-- 4×4 Keypad
+- 4×3 Keypad
 - Buzzer
 - Relay Module
 - Water Pump and Sprinkler
